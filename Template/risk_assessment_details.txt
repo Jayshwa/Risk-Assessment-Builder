@@ -1,0 +1,6 @@
+Risk Level is based on likelihood of incidence:  
+0 = impossible 1 = unlikely, 2 = possible, 3 = likely, 4 probable, 5 = certain, or N/A = Not Applicable. 
+
+This is multiplied by the severity of injuries likely : 
+1 = trivial, 2 = minor, 3 = severe, 4 = major, 5 = fatal. The resulting number quantifies the overall risk.  
+Higher number = higher priority. 
